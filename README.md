@@ -18,7 +18,7 @@ Example:
 
 
 ## Contact
-Telegram [@midaBricoll](https://t.me/midaBricoll)
+Telegram [@citrine](https://t.me/citrinedev)
 
 
 
